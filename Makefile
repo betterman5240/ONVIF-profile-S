@@ -1,16 +1,6 @@
-# Makefile for DVS901H
-# Copyright(C) 2005-2010 TaiTech Inc.
 
-# Cross Compile Tools
 CC 			:= g++
 
-# Macro Of Platform
-
-# Macro Of Header
-
-# Macro Of Function
-
-# Macro Of Library
 LDFLAGS	+= -lpthread 
 
 # Object path configure
